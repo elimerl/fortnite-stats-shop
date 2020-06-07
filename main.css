@@ -37,7 +37,7 @@ img {
 .featured {
     float:left;
     margin:5px;
-    width:10%;
+    width:15%;
 }
 #overlay {
     position: fixed; /* Sit on top of the page content */
