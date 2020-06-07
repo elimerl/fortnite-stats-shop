@@ -30,7 +30,7 @@ $.get("https://fortnite-api.com/v2/shop/br/combined", function(data, status){
         console.log(entry.items[0].images.icon);
       }
       // generate html/css
-      document.getElementById("f" + index).innerHTML += "<a href='https://fnbr.co/"+ entry.items[0].type.value +"/"+ entry.items[0].name.replace(/\s+/g, '-').toLowerCase() +"'><img src='" + getImage(index,entry) + "' width='300' height='300'  style='background-color: " + getRarityColor(entry.items[0].rarity.value) + "' /></a><p>" + entry.items[0].name + "</p> <p>" + entry.regularPrice + "    <img src='https://purepng.com/public/uploads/medium/one-v-buck-izo.png' width='25px' height='25px'/>   </p><p>"+ entry.items[0].description +"</p>     <p><i>" + entry.items[0].introduction.text + "</i></p><p>This item has come back " + entry.items[0].shopHistory.length + " times. </p>"
+      document.getElementById("f" + index).innerHTML += "<a href='https://fnbr.co/"+ entry.items[0].type.value +"/"+ entry.items[0].name.replace(/\s+/g, '-').toLowerCase() +"'><img src='" + getImage(index,entry) + "' width='200' height='200'  style='background-color: " + getRarityColor(entry.items[0].rarity.value) + "' /></a><p>" + entry.items[0].name + "</p> <p>" + entry.regularPrice + "    <img src='https://purepng.com/public/uploads/medium/one-v-buck-izo.png' width='25px' height='25px'/>   </p><p>"+ entry.items[0].description +"</p>     <p><i>" + entry.items[0].introduction.text + "</i></p><p>This item has come back " + entry.items[0].shopHistory.length + " times. </p>"
     }
   });
 function getRarityColor(rarity) {
