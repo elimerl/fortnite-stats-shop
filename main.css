@@ -1,0 +1,53 @@
+body {
+    font-family: BurbankBigCondensed-Black;
+    padding: 5mm;
+    background-color: rgb(119, 174, 236);
+    background-size: cover;
+    flex-wrap: wrap;
+}
+p {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+h1 {
+    color: white;
+    font-size: 50px;
+}
+@font-face {
+    font-family: BurbankBigCondensed-Black;
+    src: url(burbank-big-condensed-medium.otf);
+  }
+img {
+    border-radius: 15px;
+}
+.item {
+    float:left;
+  margin:5px;
+  width:15%;
+}
+.shop {
+    width: 100%;
+}
+.break {
+    padding: 5px 5px 5px 5px;
+    display: inline-block;
+    width: 100%;
+}
+.featured {
+    float:left;
+    margin:5px;
+    width:10%;
+}
+#overlay {
+    position: fixed; /* Sit on top of the page content */
+    width: 100px; /* Full width (cover the whole page) */
+    height: 100px; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 100%;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+  }

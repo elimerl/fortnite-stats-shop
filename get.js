@@ -15,7 +15,7 @@ $.get("https://fortnite-api.com/v2/shop/br/combined", function(data, status){
       console.log(entry.items[0].rarity.value);
       console.log(getImage(index, entry));
       // generate html/css
-      document.getElementById("d" + index).innerHTML += "<a href='https://fnbr.co/"+ entry.items[0].type.value +"/"+ entry.items[0].name.replace(/\s+/g, '-').toLowerCase() +"'><img src='" + entry.items[0].images.icon + "' width='250' height='250'  style='background-color: " + getRarityColor(entry.items[0].rarity.value) + "' /></a><p>" + entry.items[0].name + "</p> <p>" + entry.regularPrice + "   <img src='https://purepng.com/public/uploads/medium/one-v-buck-izo.png'width='25px' height='25px'/>  </p><p>"+ entry.items[0].description +"</p>     <p><i>" + entry.items[0].introduction.text + "</i></p><p>This item has come back " + entry.items[0].shopHistory.length + " times. DAILY<p/>"
+      document.getElementById("d" + index).innerHTML += "<a href='https://fnbr.co/"+ entry.items[0].type.value +"/"+ entry.items[0].name.replace(/\s+/g, '-').toLowerCase() +"'><img src='" + entry.items[0].images.icon + "' width='200' height='200'  style='background-color: " + getRarityColor(entry.items[0].rarity.value) + "' /></a><p>" + entry.items[0].name + "</p> <p>" + entry.regularPrice + "   <img src='https://purepng.com/public/uploads/medium/one-v-buck-izo.png'width='25px' height='25px'/>  </p><p>"+ entry.items[0].description +"</p>     <p><i>" + entry.items[0].introduction.text + "</i></p><p>This item has come back " + entry.items[0].shopHistory.length + " times. <p/>"
     }
     // featured
     for (let index = 0; index < shop.data.featured.entries.length; index++) {
@@ -30,12 +30,12 @@ $.get("https://fortnite-api.com/v2/shop/br/combined", function(data, status){
         console.log(entry.items[0].images.icon);
       }
       // generate html/css
-      document.getElementById("f" + index).innerHTML += "<a href='https://fnbr.co/"+ entry.items[0].type.value +"/"+ entry.items[0].name.replace(/\s+/g, '-').toLowerCase() +"'><img src='" + getImage(index,entry) + "' width='250' height='250'  style='background-color: " + getRarityColor(entry.items[0].rarity.value) + "' /></a><p>" + entry.items[0].name + "</p> <p>" + entry.regularPrice + "    <img src='https://purepng.com/public/uploads/medium/one-v-buck-izo.png' width='25px' height='25px'/>   </p><p>"+ entry.items[0].description +"</p>     <p><i>" + entry.items[0].introduction.text + "</i></p><p>This item has come back " + entry.items[0].shopHistory.length + " times. FEATURED</p>"
+      document.getElementById("f" + index).innerHTML += "<a href='https://fnbr.co/"+ entry.items[0].type.value +"/"+ entry.items[0].name.replace(/\s+/g, '-').toLowerCase() +"'><img src='" + getImage(index,entry) + "' width='300' height='300'  style='background-color: " + getRarityColor(entry.items[0].rarity.value) + "' /></a><p>" + entry.items[0].name + "</p> <p>" + entry.regularPrice + "    <img src='https://purepng.com/public/uploads/medium/one-v-buck-izo.png' width='25px' height='25px'/>   </p><p>"+ entry.items[0].description +"</p>     <p><i>" + entry.items[0].introduction.text + "</i></p><p>This item has come back " + entry.items[0].shopHistory.length + " times. </p>"
     }
   });
 function getRarityColor(rarity) {
   if (rarity=="legendary") {
-    return "#d1ba24"
+    return "#ad7442"
   }
   if (rarity=="epic") {
     return "#a323e8"
@@ -45,6 +45,12 @@ function getRarityColor(rarity) {
   }
   if (rarity=="uncommon") {
     return "#1fd146"
+  }
+  if (rarity=="shadow") {
+    return "#636363"
+  }
+  if (rarity=="slurp") {
+    return "#2f749c"
   }
 }
 function getImage(index, entry) {
