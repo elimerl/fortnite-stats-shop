@@ -1,0 +1,1208 @@
+{
+    "status": 200,
+    "data": {
+      "hash": "de1c2817aea759a25ba8ef1b421d206e5c5e0883",
+      "date": "2020-06-06T00:00:00Z",
+      "featured": {
+        "name": "Featured",
+        "entries": [
+          {
+            "regularPrice": 2000,
+            "finalPrice": 2000,
+            "bundle": null,
+            "banner": null,
+            "giftable": true,
+            "refundable": true,
+            "sortPriority": -11,
+            "categories": [
+              "Panel 3"
+            ],
+            "devName": "[VIRTUAL]1 x Red Knight, 1 x Red Shield for 2000 MtxCurrency",
+            "offerId": "v2:/2e01676f189daf4b3c42a911fc1e5772934c0a3fb2e485a5b10675dec9eb1b4a",
+            "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_SFemaleHID034",
+            "items": [
+              {
+                "id": "CID_034_Athena_Commando_F_Medieval",
+                "name": "Red Knight",
+                "description": "The red menace of Anarchy Acres.",
+                "type": {
+                  "value": "outfit",
+                  "displayValue": "Outfit",
+                  "backendValue": "AthenaCharacter"
+                },
+                "rarity": {
+                  "value": "legendary",
+                  "displayValue": "Legendary",
+                  "backendValue": "EFortRarity::Legendary"
+                },
+                "series": null,
+                "set": {
+                  "value": "Fort Knights",
+                  "text": "Part of the Fort Knights set.",
+                  "backendValue": "FortKnights"
+                },
+                "introduction": {
+                  "chapter": "1",
+                  "season": "1",
+                  "text": "Introduced in Chapter 1, Season 1.",
+                  "backendValue": 1
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/cid_034_athena_commando_f_medieval/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/cid_034_athena_commando_f_medieval/icon.png",
+                  "featured": null,
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Set.FortKnights",
+                  "Cosmetics.Filter.Season.1"
+                ],
+                "showcaseVideo": "cKP0SNWvK5I",
+                "displayAssetPath": null,
+                "definitionPath": "FortniteGame/Content/Athena/Heroes/HID_034_Athena_Commando_F_Medieval",
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_034_Athena_Commando_F_Medieval",
+                "added": "2019-11-20T12:50:29Z",
+                "shopHistory": [
+                  "2017-12-15T00:00:00Z",
+                  "2017-12-16T00:00:00Z",
+                  "2018-01-25T00:00:00Z",
+                  "2018-01-26T00:00:00Z",
+                  "2018-01-27T00:00:00Z",
+                  "2018-02-19T00:00:00Z",
+                  "2018-02-20T00:00:00Z",
+                  "2018-07-06T00:00:00Z",
+                  "2018-07-07T00:00:00Z",
+                  "2018-08-09T00:00:00Z",
+                  "2018-09-11T00:00:00Z",
+                  "2018-10-17T00:00:00Z",
+                  "2018-11-20T00:00:00Z",
+                  "2019-01-24T00:00:00Z",
+                  "2019-03-05T00:00:00Z",
+                  "2019-04-03T00:00:00Z",
+                  "2019-05-07T00:00:00Z",
+                  "2019-06-05T00:00:00Z",
+                  "2019-07-03T00:00:00Z",
+                  "2019-08-15T00:00:00Z",
+                  "2019-10-02T00:00:00Z",
+                  "2019-11-19T00:00:00Z",
+                  "2019-12-22T00:00:00Z",
+                  "2020-01-30T00:00:00Z",
+                  "2020-03-02T00:00:00Z",
+                  "2020-04-06T00:00:00Z",
+                  "2020-05-06T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              },
+              {
+                "id": "BID_003_RedKnight",
+                "name": "Red Shield",
+                "description": "The Red Knight's legendary shield.",
+                "type": {
+                  "value": "backpack",
+                  "displayValue": "Back Bling",
+                  "backendValue": "AthenaBackpack"
+                },
+                "rarity": {
+                  "value": "legendary",
+                  "displayValue": "Legendary",
+                  "backendValue": "EFortRarity::Legendary"
+                },
+                "series": null,
+                "set": {
+                  "value": "Fort Knights",
+                  "text": "Part of the Fort Knights set.",
+                  "backendValue": "FortKnights"
+                },
+                "introduction": {
+                  "chapter": "1",
+                  "season": "3",
+                  "text": "Introduced in Chapter 1, Season 3.",
+                  "backendValue": 3
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/bid_003_redknight/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/bid_003_redknight/icon.png",
+                  "featured": null,
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Set.FortKnights",
+                  "Cosmetics.Filter.Season.3"
+                ],
+                "showcaseVideo": null,
+                "displayAssetPath": null,
+                "definitionPath": null,
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_003_RedKnight",
+                "added": "2019-11-20T12:50:41Z",
+                "shopHistory": [
+                  "2020-05-06T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              }
+            ]
+          },
+          {
+            "regularPrice": 1200,
+            "finalPrice": 1200,
+            "bundle": null,
+            "banner": null,
+            "giftable": true,
+            "refundable": true,
+            "sortPriority": -6,
+            "categories": [
+              "Panel 2"
+            ],
+            "devName": "[VIRTUAL]1 x Hush, 1 x Black Stripe for 1200 MtxCurrency",
+            "offerId": "v2:/b80afaa12bb8079146ac8cb90ee39ee4ed2a8f8624066e34beedea8ffbcd53be",
+            "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_CID_616_Athena_Commando_F_CavalryBandit",
+            "items": [
+              {
+                "id": "CID_616_Athena_Commando_F_CavalryBandit",
+                "name": "Hush",
+                "description": "Silence the opposition.",
+                "type": {
+                  "value": "outfit",
+                  "displayValue": "Outfit",
+                  "backendValue": "AthenaCharacter"
+                },
+                "rarity": {
+                  "value": "rare",
+                  "displayValue": "Rare",
+                  "backendValue": "EFortRarity::Rare"
+                },
+                "series": null,
+                "set": {
+                  "value": "Silent Stalkers",
+                  "text": "Part of the Silent Stalkers set.",
+                  "backendValue": "QuietWatcher"
+                },
+                "introduction": {
+                  "chapter": "2",
+                  "season": "1",
+                  "text": "Introduced in Chapter 2, Season 1.",
+                  "backendValue": 11
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/cid_616_athena_commando_f_cavalrybandit/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/cid_616_athena_commando_f_cavalrybandit/icon.png",
+                  "featured": "https://fortnite-api.com/images/cosmetics/br/cid_616_athena_commando_f_cavalrybandit/featured.png",
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Filter.Season.11",
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Set.QuietWatcher"
+                ],
+                "showcaseVideo": "76LTn4398s0",
+                "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_CID_616_Athena_Commando_F_CavalryBandit",
+                "definitionPath": "FortniteGame/Content/Athena/Heroes/HID_616_Athena_Commando_F_CavalryBandit",
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_616_Athena_Commando_F_CavalryBandit",
+                "added": "2019-11-20T12:51:18Z",
+                "shopHistory": [
+                  "2019-12-07T00:00:00Z",
+                  "2019-12-08T00:00:00Z",
+                  "2020-01-21T00:00:00Z",
+                  "2020-02-28T00:00:00Z",
+                  "2020-03-30T00:00:00Z",
+                  "2020-04-30T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              },
+              {
+                "id": "BID_412_CavalryBandit",
+                "name": "Black Stripe",
+                "description": "High contrast angularity.",
+                "type": {
+                  "value": "backpack",
+                  "displayValue": "Back Bling",
+                  "backendValue": "AthenaBackpack"
+                },
+                "rarity": {
+                  "value": "rare",
+                  "displayValue": "Rare",
+                  "backendValue": "EFortRarity::Rare"
+                },
+                "series": null,
+                "set": {
+                  "value": "Silent Stalkers",
+                  "text": "Part of the Silent Stalkers set.",
+                  "backendValue": "QuietWatcher"
+                },
+                "introduction": {
+                  "chapter": "2",
+                  "season": "1",
+                  "text": "Introduced in Chapter 2, Season 1.",
+                  "backendValue": 11
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/bid_412_cavalrybandit/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/bid_412_cavalrybandit/icon.png",
+                  "featured": null,
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Filter.Season.11",
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Set.QuietWatcher"
+                ],
+                "showcaseVideo": null,
+                "displayAssetPath": null,
+                "definitionPath": null,
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_412_CavalryBandit",
+                "added": "2019-11-20T12:51:15Z",
+                "shopHistory": [
+                  "2020-04-30T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              }
+            ]
+          },
+          {
+            "regularPrice": 1200,
+            "finalPrice": 1200,
+            "bundle": null,
+            "banner": null,
+            "giftable": true,
+            "refundable": true,
+            "sortPriority": -1,
+            "categories": [
+              "Panel 1"
+            ],
+            "devName": "[VIRTUAL]1 x Sig, 1 x Silencer for 1200 MtxCurrency",
+            "offerId": "v2:/d7857f8154c1b8869f550ea457def5a0405bbbfbf0c7f9fb4aa76dee190ad9c8",
+            "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_CID_758_Athena_Commando_M_TechExplorer",
+            "items": [
+              {
+                "id": "CID_758_Athena_Commando_M_TechExplorer",
+                "name": "Sig",
+                "description": "Master intercept agent.",
+                "type": {
+                  "value": "outfit",
+                  "displayValue": "Outfit",
+                  "backendValue": "AthenaCharacter"
+                },
+                "rarity": {
+                  "value": "rare",
+                  "displayValue": "Rare",
+                  "backendValue": "EFortRarity::Rare"
+                },
+                "series": null,
+                "set": {
+                  "value": "Intercept Agent",
+                  "text": "Part of the Intercept Agent set.",
+                  "backendValue": "AmbushOfficer"
+                },
+                "introduction": {
+                  "chapter": "2",
+                  "season": "2",
+                  "text": "Introduced in Chapter 2, Season 2.",
+                  "backendValue": 12
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/cid_758_athena_commando_m_techexplorer/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/cid_758_athena_commando_m_techexplorer/icon.png",
+                  "featured": "https://fortnite-api.com/images/cosmetics/br/cid_758_athena_commando_m_techexplorer/featured.png",
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Filter.Season.12",
+                  "Cosmetics.Set.AmbushOfficer"
+                ],
+                "showcaseVideo": "U8HJGCHpyzE",
+                "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_CID_758_Athena_Commando_M_TechExplorer",
+                "definitionPath": "FortniteGame/Content/Athena/Heroes/HID_758_Athena_Commando_M_TechExplorer",
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_758_Athena_Commando_M_TechExplorer",
+                "added": "2020-04-29T06:13:35Z",
+                "shopHistory": [
+                  "2020-05-06T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              },
+              {
+                "id": "BID_522_TechExplorer",
+                "name": "Silencer",
+                "description": "Engineered for perfect silence.",
+                "type": {
+                  "value": "backpack",
+                  "displayValue": "Back Bling",
+                  "backendValue": "AthenaBackpack"
+                },
+                "rarity": {
+                  "value": "rare",
+                  "displayValue": "Rare",
+                  "backendValue": "EFortRarity::Rare"
+                },
+                "series": null,
+                "set": {
+                  "value": "Intercept Agent",
+                  "text": "Part of the Intercept Agent set.",
+                  "backendValue": "AmbushOfficer"
+                },
+                "introduction": {
+                  "chapter": "2",
+                  "season": "2",
+                  "text": "Introduced in Chapter 2, Season 2.",
+                  "backendValue": 12
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/bid_522_techexplorer/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/bid_522_techexplorer/icon.png",
+                  "featured": null,
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Filter.Season.12",
+                  "Cosmetics.Set.AmbushOfficer"
+                ],
+                "showcaseVideo": null,
+                "displayAssetPath": null,
+                "definitionPath": null,
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_522_TechExplorer",
+                "added": "2020-04-29T06:13:35Z",
+                "shopHistory": [
+                  "2020-05-06T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              }
+            ]
+          },
+          {
+            "regularPrice": 800,
+            "finalPrice": 800,
+            "bundle": null,
+            "banner": {
+              "value": "Collect the Set!",
+              "backendValue": "CollectTheSet"
+            },
+            "giftable": true,
+            "refundable": true,
+            "sortPriority": -12,
+            "categories": [
+              "Panel 3"
+            ],
+            "devName": "[VIRTUAL]1 x Crimson Axe for 800 MtxCurrency",
+            "offerId": "v2:/8ec8e190010f88d2750cbfe28806c9076132948be8fb704f0debbc79a03a88f3",
+            "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_066_FlintlockRed",
+            "items": [
+              {
+                "id": "Pickaxe_ID_066_FlintlockRed",
+                "name": "Crimson Axe",
+                "description": "Wield, smite, repeat.",
+                "type": {
+                  "value": "pickaxe",
+                  "displayValue": "Harvesting Tool",
+                  "backendValue": "AthenaPickaxe"
+                },
+                "rarity": {
+                  "value": "rare",
+                  "displayValue": "Rare",
+                  "backendValue": "EFortRarity::Rare"
+                },
+                "series": null,
+                "set": {
+                  "value": "Fort Knights",
+                  "text": "Part of the Fort Knights set.",
+                  "backendValue": "FortKnights"
+                },
+                "introduction": {
+                  "chapter": "1",
+                  "season": "4",
+                  "text": "Introduced in Chapter 1, Season 4.",
+                  "backendValue": 4
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_066_flintlockred/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_066_flintlockred/icon.png",
+                  "featured": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_066_flintlockred/featured.png",
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Set.FortKnights",
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Filter.Season.4"
+                ],
+                "showcaseVideo": "X5r3PG6gN-c",
+                "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_066_FlintlockRed",
+                "definitionPath": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_FlintlockRed",
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_066_FlintlockRed",
+                "added": "2019-11-20T12:50:56Z",
+                "shopHistory": [
+                  "2018-07-06T00:00:00Z",
+                  "2018-07-07T00:00:00Z",
+                  "2018-08-09T00:00:00Z",
+                  "2018-09-11T00:00:00Z",
+                  "2018-10-17T00:00:00Z",
+                  "2018-11-20T00:00:00Z",
+                  "2019-01-24T00:00:00Z",
+                  "2019-03-05T00:00:00Z",
+                  "2019-04-03T00:00:00Z",
+                  "2019-05-07T00:00:00Z",
+                  "2019-06-05T00:00:00Z",
+                  "2019-07-03T00:00:00Z",
+                  "2019-08-15T00:00:00Z",
+                  "2019-10-02T00:00:00Z",
+                  "2019-11-19T00:00:00Z",
+                  "2019-12-22T00:00:00Z",
+                  "2020-01-30T00:00:00Z",
+                  "2020-03-02T00:00:00Z",
+                  "2020-04-06T00:00:00Z",
+                  "2020-05-06T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              }
+            ]
+          },
+          {
+            "regularPrice": 500,
+            "finalPrice": 500,
+            "bundle": null,
+            "banner": {
+              "value": "Collect the Set!",
+              "backendValue": "CollectTheSet"
+            },
+            "giftable": true,
+            "refundable": true,
+            "sortPriority": -2,
+            "categories": [
+              "Panel 1"
+            ],
+            "devName": "[VIRTUAL]1 x Agile Edge for 500 MtxCurrency",
+            "offerId": "v2:/ac6506e186e98318bdee6ed0f204e361b7aeb709bc64977e781b2351572591eb",
+            "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_397_TechExplorerMale1H",
+            "items": [
+              {
+                "id": "Pickaxe_ID_397_TechExplorerMale1H",
+                "name": "Agile Edge",
+                "description": "Force and finesse.",
+                "type": {
+                  "value": "pickaxe",
+                  "displayValue": "Harvesting Tool",
+                  "backendValue": "AthenaPickaxe"
+                },
+                "rarity": {
+                  "value": "uncommon",
+                  "displayValue": "Uncommon",
+                  "backendValue": "EFortRarity::Uncommon"
+                },
+                "series": null,
+                "set": {
+                  "value": "Intercept Agent",
+                  "text": "Part of the Intercept Agent set.",
+                  "backendValue": "AmbushOfficer"
+                },
+                "introduction": {
+                  "chapter": "2",
+                  "season": "2",
+                  "text": "Introduced in Chapter 2, Season 2.",
+                  "backendValue": 12
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_397_techexplorermale1h/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_397_techexplorermale1h/icon.png",
+                  "featured": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_397_techexplorermale1h/featured.png",
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Pickaxe.DualWield",
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Set.AmbushOfficer",
+                  "Cosmetics.Filter.Season.12"
+                ],
+                "showcaseVideo": "YHphe-lS9bY",
+                "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_397_TechExplorerMale1H",
+                "definitionPath": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_TechExplorerMale1H",
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_397_TechExplorerMale1H",
+                "added": "2020-04-29T06:13:35Z",
+                "shopHistory": [
+                  "2020-05-06T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              }
+            ]
+          },
+          {
+            "regularPrice": 500,
+            "finalPrice": 500,
+            "bundle": null,
+            "banner": {
+              "value": "Collect the Set!",
+              "backendValue": "CollectTheSet"
+            },
+            "giftable": true,
+            "refundable": true,
+            "sortPriority": -7,
+            "categories": [
+              "Panel 2"
+            ],
+            "devName": "[VIRTUAL]1 x Silent Strike for 500 MtxCurrency",
+            "offerId": "v2:/e9b02f57513aa8179ffde86a70d0a7fda9dc17ef2aa22207d0e1684be6bccf0b",
+            "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_319_CavalryBanditFemale1H",
+            "items": [
+              {
+                "id": "Pickaxe_ID_319_CavalryBanditFemale1H",
+                "name": "Silent Strike",
+                "description": "Whisper quiet, razor sharp.",
+                "type": {
+                  "value": "pickaxe",
+                  "displayValue": "Harvesting Tool",
+                  "backendValue": "AthenaPickaxe"
+                },
+                "rarity": {
+                  "value": "uncommon",
+                  "displayValue": "Uncommon",
+                  "backendValue": "EFortRarity::Uncommon"
+                },
+                "series": null,
+                "set": {
+                  "value": "Silent Stalkers",
+                  "text": "Part of the Silent Stalkers set.",
+                  "backendValue": "QuietWatcher"
+                },
+                "introduction": {
+                  "chapter": "2",
+                  "season": "1",
+                  "text": "Introduced in Chapter 2, Season 1.",
+                  "backendValue": 11
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_319_cavalrybanditfemale1h/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_319_cavalrybanditfemale1h/icon.png",
+                  "featured": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_319_cavalrybanditfemale1h/featured.png",
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Pickaxe.DualWield",
+                  "Cosmetics.Filter.Season.11",
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Set.QuietWatcher"
+                ],
+                "showcaseVideo": "Jf9qru0NA70",
+                "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_319_CavalryBanditFemale1H",
+                "definitionPath": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_CavalryBanditFemale1H",
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_319_CavalryBanditFemale1H",
+                "added": "2019-11-20T12:51:26Z",
+                "shopHistory": [
+                  "2019-12-07T00:00:00Z",
+                  "2019-12-08T00:00:00Z",
+                  "2020-01-21T00:00:00Z",
+                  "2020-02-28T00:00:00Z",
+                  "2020-03-30T00:00:00Z",
+                  "2020-04-30T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              }
+            ]
+          },
+          {
+            "regularPrice": 300,
+            "finalPrice": 300,
+            "bundle": null,
+            "banner": {
+              "value": "Collect the Set!",
+              "backendValue": "CollectTheSet"
+            },
+            "giftable": true,
+            "refundable": true,
+            "sortPriority": -8,
+            "categories": [
+              "Panel 2"
+            ],
+            "devName": "[VIRTUAL]1 x Weathered Black for 300 MtxCurrency",
+            "offerId": "v2:/06d5f65668f3f29febd12b35b14bc3420b68eedc18a3c089690579aae682dea6",
+            "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_Wrap_174_Cavalry",
+            "items": [
+              {
+                "id": "Wrap_174_Cavalry",
+                "name": "Weathered Black",
+                "description": "Show your style.",
+                "type": {
+                  "value": "wrap",
+                  "displayValue": "Wrap",
+                  "backendValue": "AthenaItemWrap"
+                },
+                "rarity": {
+                  "value": "uncommon",
+                  "displayValue": "Uncommon",
+                  "backendValue": "EFortRarity::Uncommon"
+                },
+                "series": null,
+                "set": {
+                  "value": "Silent Stalkers",
+                  "text": "Part of the Silent Stalkers set.",
+                  "backendValue": "QuietWatcher"
+                },
+                "introduction": {
+                  "chapter": "2",
+                  "season": "1",
+                  "text": "Introduced in Chapter 2, Season 1.",
+                  "backendValue": 11
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/wrap_174_cavalry/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/wrap_174_cavalry/icon.png",
+                  "featured": "https://fortnite-api.com/images/cosmetics/br/wrap_174_cavalry/featured.png",
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Filter.Season.11",
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Set.QuietWatcher"
+                ],
+                "showcaseVideo": "DegtJ4FO_eQ",
+                "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_Wrap_174_Cavalry",
+                "definitionPath": null,
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_174_Cavalry",
+                "added": "2019-11-20T12:51:23Z",
+                "shopHistory": [
+                  "2019-12-07T00:00:00Z",
+                  "2019-12-08T00:00:00Z",
+                  "2020-01-21T00:00:00Z",
+                  "2020-02-28T00:00:00Z",
+                  "2020-03-30T00:00:00Z",
+                  "2020-04-30T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "daily": {
+        "name": "Daily",
+        "entries": [
+          {
+            "regularPrice": 1500,
+            "finalPrice": 1500,
+            "bundle": null,
+            "banner": {
+              "value": "It's Back!",
+              "backendValue": "Back"
+            },
+            "giftable": true,
+            "refundable": true,
+            "sortPriority": 0,
+            "categories": [
+              "Daily 1"
+            ],
+            "devName": "[VIRTUAL]1 x Steelsight, 1 x Steelcast for 1500 MtxCurrency",
+            "offerId": "v2:/7e0553a4e0ab472b2fcb5767b7b2409dee7a9e8510d485bc9eff62b1b435c594",
+            "displayAssetPath": null,
+            "items": [
+              {
+                "id": "CID_111_Athena_Commando_F_Robo",
+                "name": "Steelsight",
+                "description": "Victory demands nerves of steel.",
+                "type": {
+                  "value": "outfit",
+                  "displayValue": "Outfit",
+                  "backendValue": "AthenaCharacter"
+                },
+                "rarity": {
+                  "value": "epic",
+                  "displayValue": "Epic",
+                  "backendValue": "EFortRarity::Epic"
+                },
+                "series": null,
+                "set": null,
+                "introduction": {
+                  "chapter": "1",
+                  "season": "3",
+                  "text": "Introduced in Chapter 1, Season 3.",
+                  "backendValue": 3
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/cid_111_athena_commando_f_robo/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/cid_111_athena_commando_f_robo/icon.png",
+                  "featured": "https://fortnite-api.com/images/cosmetics/br/cid_111_athena_commando_f_robo/featured.png",
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Filter.Season.3"
+                ],
+                "showcaseVideo": "pgBitKGxxJQ",
+                "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_CID_111_Athena_Commando_F_Robo",
+                "definitionPath": "FortniteGame/Content/Athena/Heroes/HID_111_Athena_Commando_F_Robo",
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_111_Athena_Commando_F_Robo",
+                "added": "2019-11-20T12:50:25Z",
+                "shopHistory": [
+                  "2018-04-27T00:00:00Z",
+                  "2018-04-28T00:00:00Z",
+                  "2018-05-30T00:00:00Z",
+                  "2018-06-13T00:00:00Z",
+                  "2018-07-20T00:00:00Z",
+                  "2018-08-02T00:00:00Z",
+                  "2018-09-06T00:00:00Z",
+                  "2018-12-20T00:00:00Z",
+                  "2019-01-22T00:00:00Z",
+                  "2019-02-26T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              },
+              {
+                "id": "BID_044_Robo",
+                "name": "Steelcast",
+                "description": "Precision welded.",
+                "type": {
+                  "value": "backpack",
+                  "displayValue": "Back Bling",
+                  "backendValue": "AthenaBackpack"
+                },
+                "rarity": {
+                  "value": "epic",
+                  "displayValue": "Epic",
+                  "backendValue": "EFortRarity::Epic"
+                },
+                "series": null,
+                "set": null,
+                "introduction": {
+                  "chapter": "1",
+                  "season": "3",
+                  "text": "Introduced in Chapter 1, Season 3.",
+                  "backendValue": 3
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/bid_044_robo/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/bid_044_robo/icon.png",
+                  "featured": null,
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Filter.Season.3"
+                ],
+                "showcaseVideo": null,
+                "displayAssetPath": null,
+                "definitionPath": null,
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_044_Robo",
+                "added": "2019-11-20T12:50:40Z",
+                "shopHistory": [
+                  "2020-06-06T00:00:00Z"
+                ]
+              }
+            ]
+          },
+          {
+            "regularPrice": 1200,
+            "finalPrice": 1200,
+            "bundle": null,
+            "banner": null,
+            "giftable": true,
+            "refundable": true,
+            "sortPriority": 0,
+            "categories": [
+              "Daily 2"
+            ],
+            "devName": "[VIRTUAL]1 x Focus, 1 x Chuck Pack for 1200 MtxCurrency",
+            "offerId": "v2:/4daf05b9b5ddce28c2240d8dbf489bdb97228ffd643a251095480dcbdcd89428",
+            "displayAssetPath": null,
+            "items": [
+              {
+                "id": "CID_452_Athena_Commando_F_CyberFu",
+                "name": "Focus",
+                "description": "Visualize the future.",
+                "type": {
+                  "value": "outfit",
+                  "displayValue": "Outfit",
+                  "backendValue": "AthenaCharacter"
+                },
+                "rarity": {
+                  "value": "rare",
+                  "displayValue": "Rare",
+                  "backendValue": "EFortRarity::Rare"
+                },
+                "series": null,
+                "set": {
+                  "value": "Focal Point",
+                  "text": "Part of the Focal Point set.",
+                  "backendValue": "CyberFu"
+                },
+                "introduction": {
+                  "chapter": "1",
+                  "season": "9",
+                  "text": "Introduced in Chapter 1, Season 9.",
+                  "backendValue": 9
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/cid_452_athena_commando_f_cyberfu/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/cid_452_athena_commando_f_cyberfu/icon.png",
+                  "featured": "https://fortnite-api.com/images/cosmetics/br/cid_452_athena_commando_f_cyberfu/featured.png",
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Set.CyberFu",
+                  "Cosmetics.Filter.Season.9"
+                ],
+                "showcaseVideo": "_jGSVwmE4jA",
+                "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_CID_452_Athena_Commando_F_CyberFu",
+                "definitionPath": "FortniteGame/Content/Athena/Heroes/HID_452_Athena_Commando_F_CyberFu",
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_452_Athena_Commando_F_CyberFu",
+                "added": "2019-11-20T12:49:56Z",
+                "shopHistory": [
+                  "2019-07-12T00:00:00Z",
+                  "2019-08-08T00:00:00Z",
+                  "2019-10-07T00:00:00Z",
+                  "2019-11-10T00:00:00Z",
+                  "2020-01-20T00:00:00Z",
+                  "2020-02-17T00:00:00Z",
+                  "2020-03-15T00:00:00Z",
+                  "2020-03-28T00:00:00Z",
+                  "2020-04-21T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              },
+              {
+                "id": "BID_292_CyberFuFemale",
+                "name": "Chuck Pack",
+                "description": "Wield responsibly.",
+                "type": {
+                  "value": "backpack",
+                  "displayValue": "Back Bling",
+                  "backendValue": "AthenaBackpack"
+                },
+                "rarity": {
+                  "value": "rare",
+                  "displayValue": "Rare",
+                  "backendValue": "EFortRarity::Rare"
+                },
+                "series": null,
+                "set": {
+                  "value": "Focal Point",
+                  "text": "Part of the Focal Point set.",
+                  "backendValue": "CyberFu"
+                },
+                "introduction": {
+                  "chapter": "1",
+                  "season": "9",
+                  "text": "Introduced in Chapter 1, Season 9.",
+                  "backendValue": 9
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/bid_292_cyberfufemale/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/bid_292_cyberfufemale/icon.png",
+                  "featured": null,
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Set.CyberFu",
+                  "Cosmetics.Filter.Season.9"
+                ],
+                "showcaseVideo": null,
+                "displayAssetPath": null,
+                "definitionPath": null,
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_292_CyberFuFemale",
+                "added": "2019-11-20T12:50:33Z",
+                "shopHistory": [
+                  "2020-06-06T00:00:00Z"
+                ]
+              }
+            ]
+          },
+          {
+            "regularPrice": 800,
+            "finalPrice": 800,
+            "bundle": null,
+            "banner": null,
+            "giftable": true,
+            "refundable": true,
+            "sortPriority": 0,
+            "categories": [
+              "Daily 3"
+            ],
+            "devName": "[VIRTUAL]1 x Peely Pick for 800 MtxCurrency",
+            "offerId": "v2:/3f0a36248f66a2129393a0b842a8e5dfe81d26804683e56139c67516ea0e85e1",
+            "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_191_Banana",
+            "items": [
+              {
+                "id": "Pickaxe_ID_191_Banana",
+                "name": "Peely Pick",
+                "description": "Wield the power of the peel.",
+                "type": {
+                  "value": "pickaxe",
+                  "displayValue": "Harvesting Tool",
+                  "backendValue": "AthenaPickaxe"
+                },
+                "rarity": {
+                  "value": "rare",
+                  "displayValue": "Rare",
+                  "backendValue": "EFortRarity::Rare"
+                },
+                "series": null,
+                "set": {
+                  "value": "Banana Bunch",
+                  "text": "Part of the Banana Bunch set.",
+                  "backendValue": "Banana"
+                },
+                "introduction": {
+                  "chapter": "1",
+                  "season": "8",
+                  "text": "Introduced in Chapter 1, Season 8.",
+                  "backendValue": 8
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_191_banana/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_191_banana/icon.png",
+                  "featured": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_191_banana/featured.png",
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Set.Banana",
+                  "Cosmetics.Filter.Season.8"
+                ],
+                "showcaseVideo": "tewZokw0zdI",
+                "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_191_Banana",
+                "definitionPath": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_Banana",
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_191_Banana",
+                "added": "2019-11-20T12:50:50Z",
+                "shopHistory": [
+                  "2019-04-11T00:00:00Z",
+                  "2019-05-08T00:00:00Z",
+                  "2019-05-26T00:00:00Z",
+                  "2019-06-18T00:00:00Z",
+                  "2019-07-10T00:00:00Z",
+                  "2020-01-19T00:00:00Z",
+                  "2020-02-22T00:00:00Z",
+                  "2020-03-26T00:00:00Z",
+                  "2020-04-18T00:00:00Z",
+                  "2020-04-22T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              }
+            ]
+          },
+          {
+            "regularPrice": 500,
+            "finalPrice": 500,
+            "bundle": null,
+            "banner": null,
+            "giftable": true,
+            "refundable": true,
+            "sortPriority": 0,
+            "categories": [
+              "Daily 4"
+            ],
+            "devName": "[VIRTUAL]1 x Bouncer for 500 MtxCurrency",
+            "offerId": "v2:/23dc4a2bfab80a64303e3e41c4178b42007671c6ee44c3db7918e75458471ff4",
+            "displayAssetPath": null,
+            "items": [
+              {
+                "id": "EID_Hopper",
+                "name": "Bouncer",
+                "description": "Hop on.",
+                "type": {
+                  "value": "emote",
+                  "displayValue": "Emote",
+                  "backendValue": "AthenaDance"
+                },
+                "rarity": {
+                  "value": "rare",
+                  "displayValue": "Rare",
+                  "backendValue": "EFortRarity::Rare"
+                },
+                "series": null,
+                "set": null,
+                "introduction": {
+                  "chapter": "1",
+                  "season": "9",
+                  "text": "Introduced in Chapter 1, Season 9.",
+                  "backendValue": 9
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_hopper/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/eid_hopper/icon.png",
+                  "featured": null,
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.EmoteType.Dance",
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.UserFacingFlags.Emote.Traversal",
+                  "Cosmetics.Filter.Season.9"
+                ],
+                "showcaseVideo": "UEGynokpQfw",
+                "displayAssetPath": null,
+                "definitionPath": null,
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Hopper",
+                "added": "2019-11-20T12:48:10Z",
+                "shopHistory": [
+                  "2019-06-22T00:00:00Z",
+                  "2019-07-06T00:00:00Z",
+                  "2019-07-25T00:00:00Z",
+                  "2019-08-09T00:00:00Z",
+                  "2019-08-31T00:00:00Z",
+                  "2019-09-20T00:00:00Z",
+                  "2019-10-06T00:00:00Z",
+                  "2019-11-15T00:00:00Z",
+                  "2019-12-23T00:00:00Z",
+                  "2020-01-25T00:00:00Z",
+                  "2020-02-20T00:00:00Z",
+                  "2020-03-11T00:00:00Z",
+                  "2020-04-11T00:00:00Z",
+                  "2020-05-13T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              }
+            ]
+          },
+          {
+            "regularPrice": 500,
+            "finalPrice": 500,
+            "bundle": null,
+            "banner": null,
+            "giftable": true,
+            "refundable": true,
+            "sortPriority": 0,
+            "categories": [
+              "Daily 5"
+            ],
+            "devName": "[VIRTUAL]1 x Make It Plantain for 500 MtxCurrency",
+            "offerId": "v2:/33d249ee6c6b11346b479f9b4cce08c86d1b17d57f020117af45ae727d0cb7b6",
+            "displayAssetPath": null,
+            "items": [
+              {
+                "id": "EID_MakeItPlantain",
+                "name": "Make It Plantain",
+                "description": "It's bananas.",
+                "type": {
+                  "value": "emote",
+                  "displayValue": "Emote",
+                  "backendValue": "AthenaDance"
+                },
+                "rarity": {
+                  "value": "rare",
+                  "displayValue": "Rare",
+                  "backendValue": "EFortRarity::Rare"
+                },
+                "series": null,
+                "set": null,
+                "introduction": {
+                  "chapter": "1",
+                  "season": "9",
+                  "text": "Introduced in Chapter 1, Season 9.",
+                  "backendValue": 9
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_makeitplantain/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/eid_makeitplantain/icon.png",
+                  "featured": null,
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.EmoteType.Dance",
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Filter.Season.9"
+                ],
+                "showcaseVideo": "S_mvLhxIa00",
+                "displayAssetPath": null,
+                "definitionPath": null,
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_MakeItPlantain",
+                "added": "2019-11-20T12:49:43Z",
+                "shopHistory": [
+                  "2019-07-22T00:00:00Z",
+                  "2019-08-21T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              }
+            ]
+          },
+          {
+            "regularPrice": 200,
+            "finalPrice": 200,
+            "bundle": null,
+            "banner": null,
+            "giftable": true,
+            "refundable": true,
+            "sortPriority": 0,
+            "categories": [
+              "Daily 6"
+            ],
+            "devName": "[VIRTUAL]1 x Shaolin Sit-up for 200 MtxCurrency",
+            "offerId": "v2:/058c7a056c81de8308b3882eb11311dd25e0797b73e9bf2e50928043b4b461da",
+            "displayAssetPath": null,
+            "items": [
+              {
+                "id": "EID_Shaolin",
+                "name": "Shaolin Sit-up",
+                "description": "Mind over body.",
+                "type": {
+                  "value": "emote",
+                  "displayValue": "Emote",
+                  "backendValue": "AthenaDance"
+                },
+                "rarity": {
+                  "value": "uncommon",
+                  "displayValue": "Uncommon",
+                  "backendValue": "EFortRarity::Uncommon"
+                },
+                "series": null,
+                "set": null,
+                "introduction": {
+                  "chapter": "1",
+                  "season": "7",
+                  "text": "Introduced in Chapter 1, Season 7.",
+                  "backendValue": 7
+                },
+                "images": {
+                  "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_shaolin/smallicon.png",
+                  "icon": "https://fortnite-api.com/images/cosmetics/br/eid_shaolin/icon.png",
+                  "featured": null,
+                  "other": null
+                },
+                "variants": null,
+                "gameplayTags": [
+                  "Cosmetics.EmoteType.Dance",
+                  "Cosmetics.Source.ItemShop",
+                  "Cosmetics.Filter.Season.7"
+                ],
+                "showcaseVideo": "3SDxhuVxuY8",
+                "displayAssetPath": null,
+                "definitionPath": null,
+                "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Shaolin",
+                "added": "2019-11-20T12:49:42Z",
+                "shopHistory": [
+                  "2019-01-02T00:00:00Z",
+                  "2019-02-06T00:00:00Z",
+                  "2019-03-16T00:00:00Z",
+                  "2019-04-22T00:00:00Z",
+                  "2019-05-12T00:00:00Z",
+                  "2019-06-10T00:00:00Z",
+                  "2019-10-07T00:00:00Z",
+                  "2019-11-28T00:00:00Z",
+                  "2020-01-27T00:00:00Z",
+                  "2020-03-24T00:00:00Z",
+                  "2020-05-12T00:00:00Z",
+                  "2020-06-06T00:00:00Z"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "votes": null,
+      "voteWinners": null
+    }
+  }
