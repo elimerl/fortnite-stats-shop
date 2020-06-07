@@ -1,0 +1,43 @@
+body {
+    font-family: BurbankBigCondensed-Medium;
+    padding: 5mm;
+    background-color: rgb(119, 174, 236);
+    background-size: cover;
+    flex-wrap: wrap;
+}
+p {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+h2 {
+    color: white;
+}
+@font-face {
+    font-family: BurbankBigCondensed-Black;
+    src: url(../BurbankBigCondensed-Black.otf);
+  }
+@font-face {
+    font-family: BurbankBigCondensed-Medium;
+    src: url(../burbank-big-condensed-medium.otf);
+}
+img {
+    border-radius: 15px;
+}
+button {
+    font-family: BurbankBigCondensed-Medium;
+    font-size: 25px;
+    border-radius: 5px;
+}
+input {
+    font-family: BurbankBigCondensed-Medium;
+    font-size: 25px;
+}
+select {
+    font-family: BurbankBigCondensed-Medium;
+    font-size: 25px;
+}
+.statImage {
+    float: left;
+    margin:5px;
+}
