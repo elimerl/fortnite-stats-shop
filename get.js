@@ -21,6 +21,7 @@ $.get("https://fortnite-api.com/v2/shop/br/combined", function(data, status){
     for (let index = 0; index < shop.data.featured.entries.length; index++) {
       var entry = shop.data.featured.entries[index];
       // console logs
+      console.log(shop.data.featured.entries.length)
       console.log(entry.items[0].name);
       console.log(entry.regularPrice);
       console.log(entry.items[0].rarity.value);
